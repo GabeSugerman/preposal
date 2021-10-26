@@ -2,7 +2,7 @@
 
 ## What idea(s) do you have for your final project?
 
-TODO
+#a choose your own adventure game, reannacting the liquor store scene from superbad
 
 ## If you plan to collaborate with one or two classmates, what are their names?
 
